@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: linear-gradient(86deg, #bf151500, #304b4b);
+}
+.container{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.box-ZERO{
+    width: 300px;
+    background: rgba(255, 254, 254, 0.793);
+    border-radius: 10px;
+
+}
+.box{
+    width: 280px;
+    padding-top: 15px;
+
+}
+.atribuicao{
+    height: 500px;
+    width: 300px;
+    text-align: center;
+  
+}
+.box-one{ 
+
+    font-size: 15px;
+    color: black;
+    
+}
